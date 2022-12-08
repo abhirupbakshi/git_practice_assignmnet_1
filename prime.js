@@ -14,4 +14,5 @@ function checkPrime(num)
     return true;
 }
 
-// console.log(checkPrime(13));
+
+ console.log(checkPrime(13));
